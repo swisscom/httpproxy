@@ -2,6 +2,8 @@
 
 [![GoDoc](https://godoc.org/github.com/swisscom/httpproxy?status.svg)](https://godoc.org/github.com/swisscom/httpproxy)
 
+Forked from [go-httpproxy/httpproxy](https://github.com/go-httpproxy/httpproxy).
+
 Package httpproxy provides a customizable HTTP proxy; supports HTTP, HTTPS through
 CONNECT. And also provides HTTPS connection using "Man in the Middle" style
 attack.
